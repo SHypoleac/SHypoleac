@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHypoleac
+- 👋 Hi, I’m Michał
 - 👀 I’m interested in ... many different things
 - 🌱 I’m currently learning ... Advanced Python with Joe Marini on LinkedInLearning
 
@@ -12,15 +12,15 @@ alphabet_dict = {chr(65 + i): i + 1 for i in range(26)}
 my_nick_in_nmbrs = transform(my_nick,alphabet_dict)
 
 # Step 1 and 2! #
-IT = sorted(my_nick_in_nmbrs)[:5] + sorted(my_nick_in_nmbrs, reverse=True)[:3] 
+it = sorted(my_nick_in_nmbrs)[:5] + sorted(my_nick_in_nmbrs, reverse=True)[:3] 
 # Is there anything left? #
-remains = [val for val in my_nick_in_nmbrs if val not in IT] 
-# Let's put it in the middle! - Step 3! #
-IT.insert(4, remains.pop())                          
+remains = [val for val in my_nick_in_nmbrs if val not in it] 
+# Let's put this in the middle! - Step 3! #
+it.insert(4, remains.pop())                          
   
-IT = transform(IT,alphabet_dict)
+it = transform(it,alphabet_dict)
 
-# print (f"If you can do it without computer, you surely have {IT} ;)") #
+# print (f"If you can do it without computer, you surely have {it} ;)") #
 
 def transform(input_data, cryptodict):
     """Automatically performs encryption or decryption with cryptodict based on the type of input."""
