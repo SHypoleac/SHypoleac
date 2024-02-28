@@ -16,7 +16,7 @@ it = sorted(my_nick_in_nmbrs)[:5] + sorted(my_nick_in_nmbrs, reverse=True)[:3]
 # Is there anything left? #
 remains = [val for val in my_nick_in_nmbrs if val not in it] 
 # Let's put this in the middle! - Step 3! #
-it.insert(4, remains.pop())                          
+it.insert(int(len(it)/2), remains.pop())                          
   
 it = transform(it,alphabet_dict)
 
