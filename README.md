@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Michał
 - 👀 I’m interested in ... many different things
-- 🌱 I’m currently learning ... Advanced Python with Joe Marini on LinkedInLearning
+- 🌱 I’m currently learning ...
+- ✅️ 'Python Object Oriented' with Joe Marini on LinkedInLearning
+- ✅️ 'Advanced Python' with Joe Marini on LinkedInLearning
+- 🔶️ 'Level Up : Python' with Barron Stone on LinkedInLearning (PCAP™ – Certified Associate Python Programmer Level)
 
+- 
 #!/usr/bin/env python3
 
 my_nick ="SHypoleac"
