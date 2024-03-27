@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - ✅️ 'Python Object Oriented' with Joe Marini on LinkedInLearning
 - ✅️ 'Advanced Python' with Joe Marini on LinkedInLearning
-- 🔶️ 'Level Up : Python' with Barron Stone on LinkedInLearning (PCAP™ – Certified Associate Python Programmer Level)
+- ✅️ 'Level Up : Python' with Barron Stone on LinkedInLearning (PCAP™ – Certified Associate Python Programmer Level)
+- 🔶️ 'Managing Python Projects' with Miki Tebeka on LinkedInLearning
 
 - 
 #!/usr/bin/env python3
