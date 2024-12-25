@@ -32,8 +32,8 @@ it = transform(it,alphabet_dict)
 
 ```
 ```
-> def transform(input_data, cryptodict):
-    """Automatically performs encryption or decryption with cryptodict based on the type of input."""
+def transform(input_data, cryptodict):
+	"""Automatically performs encryption or decryption with cryptodict based on the type of input."""
 	if isinstance(input_data, str):
 		# Encryption mode
 		input_data=input_data.upper()
