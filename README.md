@@ -18,9 +18,11 @@ alphabet_dict = {chr(65 + i): i + 1 for i in range(26)}
 my_nick_in_nmbrs = transform(my_nick,alphabet_dict)
 
 ### Step 1 and 2! #
-it = sorted(my_nick_in_nmbrs)[:5] + sorted(my_nick_in_nmbrs, reverse=True)[:3] 
+it = sorted(my_nick_in_nmbrs)[:5] + sorted(my_nick_in_nmbrs, reverse=True)[:3]
+
 ### Is there anything left? #
-remains = [val for val in my_nick_in_nmbrs if val not in it] 
+remains = [val for val in my_nick_in_nmbrs if val not in it]
+
 ### Let's put this in the middle! - Step 3! #
 it.insert(int(len(it)/2), remains.pop())                          
   
