@@ -45,7 +45,7 @@ def transform(input_data, cryptodict):
 	else:
 		raise ValueError("Input data must be either a string for encryption or a sequence of integers for decryption.")
 ```
-
+https://pythononline.net/#aQmxLQ
 
 
 <!---
