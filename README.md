@@ -4,8 +4,11 @@
 - ✅️ 'Python Object Oriented' with Joe Marini on LinkedInLearning
 - ✅️ 'Advanced Python' with Joe Marini on LinkedInLearning
 - ✅️ 'Level Up : Python' with Barron Stone on LinkedInLearning (PCAP™ – Certified Associate Python Programmer Level)
-- 🔶️ 'Managing Python Projects' with Miki Tebeka on LinkedInLearning
-- 🔶️ 'Learning Docker' with Carlos Nunez on LinkedInLearning
+- ✅️ 'Managing Python Projects' with Miki Tebeka on LinkedInLearning
+- ✅️ 'Learning Docker' with Carlos Nunez on LinkedInLearning
+- ✅️ practicing with openai (https://github.com/openai/openai-python) and AutoGPT(AutoGPT https://github.com/Significant-Gravitas/AutoGPT)
+- ✅️ practicing with parallel audio and image processing - numpy(https://github.com/numpy/numpy), librosa(https://github.com/librosa/librosa), speech-recognition(https://github.com/Uberi/speech_recognition), whisper(https://github.com/SYSTRAN/faster-whisper), asyncio, multiprocessing(https://docs.python.org/3/library/multiprocessing.html)
+- 🔶️ practining in building agentic ai systems - transformers, langchain, llamaindex, dspy, memgpt (letta)
 
 ```
 #!/usr/bin/env python3
