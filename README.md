@@ -1,14 +1,14 @@
 - 👋 Hi, I’m Michał
 - 👀 I’m interested in ... many different things
 - 🌱 I’m currently learning ...
-- ✅️ 'Python Object Oriented' with Joe Marini on LinkedInLearning
-- ✅️ 'Advanced Python' with Joe Marini on LinkedInLearning
-- ✅️ 'Level Up : Python' with Barron Stone on LinkedInLearning (PCAP™ – Certified Associate Python Programmer Level)
-- ✅️ 'Managing Python Projects' with Miki Tebeka on LinkedInLearning
-- ✅️ 'Learning Docker' with Carlos Nunez on LinkedInLearning
-- ✅️ practicing with openai (https://github.com/openai/openai-python) and AutoGPT(AutoGPT https://github.com/Significant-Gravitas/AutoGPT)
-- ✅️ practicing with parallel audio and image processing - numpy(https://github.com/numpy/numpy), librosa(https://github.com/librosa/librosa), speech-recognition(https://github.com/Uberi/speech_recognition), whisper(https://github.com/SYSTRAN/faster-whisper), asyncio, multiprocessing(https://docs.python.org/3/library/multiprocessing.html)
-- 🔶️ practining in building agentic ai systems - transformers, langchain, llamaindex, dspy, memgpt (letta)
+- ✅️ ['Python Object Oriented'](https://github.com/LinkedInLearning/python-object-oriented-programming-4413110) with Joe Marini on LinkedInLearning
+- ✅️ ['Advanced Python'](https://github.com/LinkedInLearning/advanced-python-3912165) with Joe Marini on LinkedInLearning
+- ✅️ ['Level Up : Python'](https://github.com/LinkedInLearning/level-up-python-3210418) with Barron Stone on LinkedInLearning (PCAP™ – Certified Associate Python Programmer Level)
+- ✅️ ['Managing Python Projects'](https://www.linkedin.com/learning/managing-python-projects) with Miki Tebeka on LinkedInLearning
+- ✅️ ['Learning Docker'](https://www.linkedin.com/learning/learning-docker-17236240) with Carlos Nunez on LinkedInLearning
+- ✅️ practicing with [openai](https://github.com/openai/openai-python) and [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+- ✅️ practicing with _**parallel audio and image processing**_ - [numpy](https://github.com/numpy/numpy), [librosa](https://github.com/librosa/librosa), [speech-recognition](https://github.com/Uberi/speech_recognition), [whisper](https://github.com/SYSTRAN/faster-whisper), [_asyncio_ and _multiprocessing_](https://docs.python.org/3/library/multiprocessing.html)
+- 🔶️ practicing with _**building agentic ai systems**_ - [transformers](https://github.com/huggingface/transformers), [langchain](https://github.com/langchain-ai/langchain), [llamaindex](https://github.com/run-llama/llama_index), [dspy](https://github.com/stanfordnlp/dspy), [memgpt (letta)](https://github.com/letta-ai/letta)
 
 ```
 #!/usr/bin/env python3
