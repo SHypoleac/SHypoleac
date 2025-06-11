@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Michał
+- 👋 Hi, I’m Michał!
+
 - 👀 I’m interested in ... many different things
 - 🌱 I’m currently learning ...
 - LinkedIn courses:
@@ -8,52 +9,18 @@
 	- ✅️ ['Managing Python Projects'](https://www.linkedin.com/learning/managing-python-projects) with Miki Tebeka on LinkedInLearning
 	- ✅️ ['Learning Docker'](https://www.linkedin.com/learning/learning-docker-17236240) with Carlos Nunez on LinkedInLearning
  - learning through experience in:
-	- ✅️ [openai](https://github.com/openai/openai-python) and [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-	- ✅️ _**parallel audio and image processing**_ - [numpy](https://github.com/numpy/numpy), [librosa](https://github.com/librosa/librosa), [speech-recognition](https://github.com/Uberi/speech_recognition), [whisper](https://github.com/SYSTRAN/faster-whisper), [_asyncio_ and _multiprocessing_](https://docs.python.org/3/library/multiprocessing.html)
-	- 🔶️ _**building agentic ai systems**_ - [transformers](https://github.com/huggingface/transformers), [langchain](https://github.com/langchain-ai/langchain), [llamaindex](https://github.com/run-llama/llama_index), [dspy](https://github.com/stanfordnlp/dspy), [memgpt (letta)](https://github.com/letta-ai/letta)
+ 	- ✅️ [openai](https://github.com/openai/openai-python) ![obraz](https://github.com/user-attachments/assets/875df46f-d3b4-48ed-812f-94862b2ffd5b) and [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)![obraz](https://github.com/user-attachments/assets/d1bbb57e-1eda-46e4-8448-8213d0d85047)
 
-```
-#!/usr/bin/env python3
-
-my_nick ="SHypoleac"
-
-### Just need an alphabet dict A:1, B:2, Z:26 ##
-alphabet_dict = {chr(65 + i): i + 1 for i in range(26)} 
-
-my_nick_in_nmbrs = transform(my_nick,alphabet_dict)
-
-### Step 1 and 2! #
-it = sorted(my_nick_in_nmbrs)[:5] + sorted(my_nick_in_nmbrs, reverse=True)[:3]
-
-### Is there anything left? #
-remains = [val for val in my_nick_in_nmbrs if val not in it]
-
-### Let's put this in the middle! - Step 3! #
-it.insert(int(len(it)/2), remains.pop())                          
-  
-it = transform(it,alphabet_dict)
-
-### print (f"If you can do it without computer, you surely have {it} ;)") #
-
-```
-```
-def transform(input_data, cryptodict):
-	"""Automatically performs encryption or decryption with cryptodict based on the type of input."""
-	if isinstance(input_data, str):
-		# Encryption mode
-		input_data=input_data.upper()
-		return [cryptodict[char] if char in cryptodict else ord(char) for char in input_data]
-	elif isinstance(input_data, (list, tuple)) and all(isinstance(i, int) for i in input_data):
-		# Decryption mode
-		inverted_dict = {v: k for k, v in cryptodict.items()}
-		return "".join([inverted_dict.get(number, str(number)) for number in input_data])
-	else:
-		raise ValueError("Input data must be either a string for encryption or a sequence of integers for decryption.")
-```
-https://pythononline.net/#aQmxLQ
+	- ✅️ _**parallel audio and image processing**_ -
+ - [numpy](https://github.com/numpy/numpy) ![obraz](https://github.com/user-attachments/assets/9401652a-fb64-44a8-8464-f4b486c19c21)
+, [librosa](https://github.com/librosa/librosa) ![obraz](https://github.com/user-attachments/assets/f90d9c22-65c9-443a-82cc-c9f9a4597b99)
+, [speech-recognition](https://github.com/Uberi/speech_recognition) ![obraz](https://github.com/user-attachments/assets/fb9907ab-5ab1-4d32-8ca0-04f88ba4edbc) , [whisper](https://github.com/SYSTRAN/faster-whisper) ![obraz](https://github.com/user-attachments/assets/76e7a104-5461-43d1-845c-54ad964ac9f5), [_asyncio_ and _multiprocessing_](https://docs.python.org/3/library/multiprocessing.html) ![obraz](https://github.com/user-attachments/assets/ac873eb0-fd4c-4364-9813-89888bf9ee75)
+	- 🔶️ _**building agentic ai systems**_ -
+ - [transformers](https://github.com/huggingface/transformers) ![obraz](https://github.com/user-attachments/assets/af83760f-a8ba-4948-a106-3c9ac73a0cc0)
+, [langchain](https://github.com/langchain-ai/langchain) ![obraz](https://github.com/user-attachments/assets/560e79a7-fde1-457a-8232-d33377fb6c5b)
+, [llamaindex](https://github.com/run-llama/llama_index) ![obraz](https://github.com/user-attachments/assets/33872d64-9c27-4fc5-9dd0-bedd139ca445)
+, [dspy](https://github.com/stanfordnlp/dspy) ![obraz](https://github.com/user-attachments/assets/2d3fde6b-1533-4e50-aee6-3349d42962e5)
+, [memgpt (letta)](https://github.com/letta-ai/letta) ![obraz](https://github.com/user-attachments/assets/234cb3f9-e6de-44d9-bed1-b468875eb04c)
 
 
-<!---
-SHypoleac/SHypoleac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[discover secret of my nick here](https://pythononline.net/#aQmxLQ)
