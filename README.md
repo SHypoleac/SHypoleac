@@ -2,7 +2,8 @@
 
 - 👀 I’m interested in ... many different things
 - 🌱 I’m currently learning ...
-- LinkedIn courses:
+- LinkedIn courses: ![obraz](https://github.com/user-attachments/assets/7923fb1b-1122-4be5-8a49-3905723cbbb1)
+
 	- ✅️ ['Python Object Oriented'](https://github.com/LinkedInLearning/python-object-oriented-programming-4413110) with Joe Marini on LinkedInLearning
 	- ✅️ ['Advanced Python'](https://github.com/LinkedInLearning/advanced-python-3912165) with Joe Marini on LinkedInLearning
 	- ✅️ ['Level Up : Python'](https://github.com/LinkedInLearning/level-up-python-3210418) with Barron Stone on LinkedInLearning (PCAP™ – Certified Associate Python Programmer Level)
@@ -17,10 +18,10 @@
 , [speech-recognition](https://github.com/Uberi/speech_recognition) ![obraz](https://github.com/user-attachments/assets/fb9907ab-5ab1-4d32-8ca0-04f88ba4edbc) , [whisper](https://github.com/SYSTRAN/faster-whisper) ![obraz](https://github.com/user-attachments/assets/76e7a104-5461-43d1-845c-54ad964ac9f5), [_asyncio_ and _multiprocessing_](https://docs.python.org/3/library/multiprocessing.html) ![obraz](https://github.com/user-attachments/assets/ac873eb0-fd4c-4364-9813-89888bf9ee75)
 	- 🔶️ _**building agentic ai systems**_ -
  - [transformers](https://github.com/huggingface/transformers) ![obraz](https://github.com/user-attachments/assets/af83760f-a8ba-4948-a106-3c9ac73a0cc0)
-, [langchain](https://github.com/langchain-ai/langchain) ![obraz](https://github.com/user-attachments/assets/560e79a7-fde1-457a-8232-d33377fb6c5b)
+, [langgraph](https://github.com/langchain-ai/langgraph) ![obraz](https://github.com/user-attachments/assets/560e79a7-fde1-457a-8232-d33377fb6c5b)
 , [llamaindex](https://github.com/run-llama/llama_index) ![obraz](https://github.com/user-attachments/assets/33872d64-9c27-4fc5-9dd0-bedd139ca445)
 , [dspy](https://github.com/stanfordnlp/dspy) ![obraz](https://github.com/user-attachments/assets/2d3fde6b-1533-4e50-aee6-3349d42962e5)
 , [memgpt (letta)](https://github.com/letta-ai/letta) ![obraz](https://github.com/user-attachments/assets/234cb3f9-e6de-44d9-bed1-b468875eb04c)
 
 
-[discover secret of my nick here](https://pythononline.net/#aQmxLQ)
+[discover the secret of my nickname here](https://pythononline.net/#aQmxLQ)
