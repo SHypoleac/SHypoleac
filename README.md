@@ -2,7 +2,8 @@
 
 - 👀 I’m interested in ... many different things
 - 🌱 I’m currently learning ...
-- LinkedIn courses: ![obraz](https://github.com/user-attachments/assets/7923fb1b-1122-4be5-8a49-3905723cbbb1)
+- LinkedIn courses: ![obraz](https://github.com/user-attachments/assets/7923fb1b-1122-4be5-8a49-3905723cbbb1)![obraz](https://github.com/user-attachments/assets/74f21221-442b-42aa-b4f6-c687e4bc637f)
+
 
 	- ✅️ ['Python Object Oriented'](https://github.com/LinkedInLearning/python-object-oriented-programming-4413110) with Joe Marini on LinkedInLearning
 	- ✅️ ['Advanced Python'](https://github.com/LinkedInLearning/advanced-python-3912165) with Joe Marini on LinkedInLearning
